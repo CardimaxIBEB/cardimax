@@ -2,7 +2,7 @@
 
 Cardimax was a project developed in Medical Robotics class in Lisbon University for the Biomedical Engineering course. 
 
-We, as three engineering students, decided to create a device (inside baymax) that measures you heart rate and creates a different light effect according to your mood. It also controls a Python playlist that has three setings: HIGH (for high heart frequencies), MEDIUM and LOW.
+We, as three engineering students, decided to create a device that measures you heart rate and creates a different light effect according to your mood. It also controls a Python playlist that has three setings: HIGH (for high heart frequencies), MEDIUM and LOW.
 
 Materials used include:
 - BITalino board (http://bitalino.com)
